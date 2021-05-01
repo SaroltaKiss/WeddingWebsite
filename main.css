@@ -150,3 +150,13 @@ a:hover {
 .program ul {
     letter-spacing: .025rem;
 }
+
+/* GIFTS */
+
+.gifts img {
+    height: 7.5rem;
+}
+  
+.gifts p:last-child {
+    margin-bottom: 0;
+}
